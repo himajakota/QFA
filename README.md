@@ -1,3 +1,3 @@
 # QFA
-Quantitative Finance Assginment
-The Yewno folder has three subfolder, each of them has the solution for the three questions given in the assignment.
+### Quantitative Finance Assginment
+The Yewno folder has three subfolder, each of them has the solutions for the questions given in the assignment.
